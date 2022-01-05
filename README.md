@@ -1,1 +1,1 @@
-# Skilvul-24-Web-Sever-and-Restful-API
+# Skilvul-24-web-server-and-restful-api
